@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603110309 source:c:\users\fernando\desktop\utn\parciales\prog1\primerparcial\portillo.fernando.progipp1a\funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
